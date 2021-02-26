@@ -9,7 +9,7 @@
     "deploy": "rm -rf dist/ && npm build && gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://AndresGardea.github.io/prueba1",
+  "homepage": "https://andresgardea.github.io/prueba1/",
   "author": "",
   "license": "ISC",
   "dependencies": {
